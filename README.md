@@ -2,7 +2,7 @@
 
 ## Финансовый консультант | Аудит | Оценка бизнеса
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnyuri@gmail.com) 📩 [gnyuri@gmail.com](mailto:gnyuri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnyuri@gmail.com) | 📩 [gnyuri@gmail.com](mailto:gnyuri@gmail.com)
 
 ---
 
